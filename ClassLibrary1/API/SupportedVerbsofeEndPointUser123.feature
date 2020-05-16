@@ -1,4 +1,4 @@
-﻿Feature: SupportedVerbsofeEndPointUser123
+﻿ Feature: SupportedVerbsofeEndPointUser123
 When i click send button for  options request "https://gorest.co.in/public-api/users" displays supported verbs of endpoint
 
 @positive

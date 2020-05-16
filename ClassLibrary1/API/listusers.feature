@@ -7,4 +7,4 @@ Scenario: Output array with  all users
 	And I have an array with registered user data
 	When I press send button 
 	Then the result should be 200 ok on the screen
-
+	 

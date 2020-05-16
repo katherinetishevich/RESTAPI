@@ -7,3 +7,4 @@ Scenario: Empty query result field
 	And I have empty server response
 	When I press send button
 	Then the result should be 200ok on the screen
+	 

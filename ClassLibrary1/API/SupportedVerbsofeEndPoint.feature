@@ -7,3 +7,4 @@ Scenario: Output supported verbs of endpoint
 	And  I have answer 200ok
 	When I press send button
 	Then the result should be 200ok on the screen
+	  

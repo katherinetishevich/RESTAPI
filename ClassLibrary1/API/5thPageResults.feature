@@ -5,5 +5,5 @@
 Scenario: Output array with  5th page results users
 	Given I have prepored  get request
 	And I have an array with user data on 5th page
-	When I press send button
+	When I press send button 
 	Then the result should be 200ok on the screen
