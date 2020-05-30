@@ -1,5 +1,5 @@
 ﻿Feature: listusers
-	When i click send button for  get request "https://gorest.co.in/public-api/users" displays an array with users data
+	When i click send button for  get request  displays an array with users data
 
 @positive
 Scenario: Output array with  all users

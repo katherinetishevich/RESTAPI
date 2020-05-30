@@ -1,5 +1,5 @@
 ﻿Feature: OverviewInformationUser123
-	When i click send button for head request "https://gorest.co.in/public-api/users" nothing is output
+	When i click send button for head request  nothing is output
 	And i don't have overview information about user with id 123
 
 @negative

@@ -1,5 +1,5 @@
 ﻿Feature: userJohn
-When i click send button for  get request "https://gorest.co.in/public-api/users?first_name=john"
+When i click send button for  get request
 Request status "200ok" information is displayed
 I don't have list all users with first_name contains john
 

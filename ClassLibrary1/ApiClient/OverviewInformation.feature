@@ -1,5 +1,5 @@
 ﻿Feature: OverviewInformation
-	When i click send button for head request "https://gorest.co.in/public-api/users" nothing is output
+	When i click send button for head request  nothing is output
 
 @negative
 Scenario: Empty query result field

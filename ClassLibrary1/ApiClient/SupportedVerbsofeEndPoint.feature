@@ -1,5 +1,5 @@
 ﻿Feature: SupportedVerbsofeEndPoint
-	When i click send button for  options request "https://gorest.co.in/public-api/users" displays supported verbs of endpoint
+	When i click send button for  options request  displays supported verbs of endpoint
 
 @positive
 Scenario: Output supported verbs of endpoint

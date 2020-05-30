@@ -1,5 +1,5 @@
 ﻿Feature:  5thPageResults
-	When i click send button for  get request "https://gorest.co.in/public-api/users" 
+	When i click send button for  get request 
 	displays an array with 5th page results 
 
 Scenario: Output array with  5th page results users

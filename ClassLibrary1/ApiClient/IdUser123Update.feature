@@ -1,5 +1,5 @@
 ﻿Feature: IdUser123Update
-When i click send button for putch request "https://gorest.co.in/public-api/users/123" 
+When i click send button for putch request  
 	displays update an array with user 123 
 
 @negative

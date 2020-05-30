@@ -1,5 +1,5 @@
 ﻿Feature: IdUser123
-	When i click send button for  get request "https://gorest.co.in/public-api/users/123" 
+	When i click send button for  get request 
 	displays an array with user 123 
 
 

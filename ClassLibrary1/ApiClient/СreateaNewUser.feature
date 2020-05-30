@@ -1,5 +1,5 @@
 ﻿Feature: СreateaNewUser
-	When i click send button for post request "https://gorest.co.in/public-api/users "
+	When i click send button for post request 
 	a request appears check the response body for detailed error messages
 
 @negative
